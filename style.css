@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Newa&display=swap');
+body{
+    background-color: brown;
+}
+p{
+    color: bisque;
+    font-size: 26px;
+    font-family: "Noto Sans Newa", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color: white;
+    position: relative;
+    left: 79em;
+    top: 2em;
+    /* dårlig metod */
+}
+ul{
+    list-style: none;
+}
+.a{
+    color: aquamarine;
+    font-size: 40px;
+}
